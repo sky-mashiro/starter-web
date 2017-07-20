@@ -15,6 +15,7 @@ Sample website with plenty of files for demos
 ## Merge test
 
 Add sth
+Sth from feature branch
 
 Add something
 
