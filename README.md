@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 ## Some more test
 
 ## Merge test
+
+2017 Copyright
