@@ -19,4 +19,4 @@ Sth from feature branch
 
 Add something
 
-2017 Copyright
+2017 Copyright All
